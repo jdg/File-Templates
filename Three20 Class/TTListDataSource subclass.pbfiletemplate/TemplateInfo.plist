@@ -1,0 +1,5 @@
+{
+	MainTemplateFile = "class.m";
+	CounterpartTemplateFile = "class.h";
+	Description = "A subclass of TTListDataSource, with an extra 'Load more' results button.";
+}
