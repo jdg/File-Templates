@@ -5,7 +5,7 @@
 //  Created by «FULLUSERNAME» on «DATE».
 //
 
-#import <Three20/Three.h>
+#import <Three20/Three20.h>
 
 @interface «FILEBASENAMEASIDENTIFIER» : TTTableViewController {
 
